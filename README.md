@@ -1,7 +1,6 @@
 ### Olá, mundo! Sou <strong>Mateus Wesley</strong>,  desenvolvedor web Full stack, com foco em Spring Boot, Java e Angular! 👋
 
 
-- 🌱 Estou estudando HTML, CSS e Javascript
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuswesley-1&show_icons=true&theme=dracula)
   <a href="https://github.com/mateuswesley-1">
