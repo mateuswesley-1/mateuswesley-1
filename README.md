@@ -1,4 +1,4 @@
-### Olá, mundo! Sou <strong>Mateus Wesley</strong>, estudante de desenvolvimento web Full stack! 👋
+### Olá, mundo! Sou <strong>Mateus Wesley</strong>,  desenvolvedor web Full stack, com foco em Spring Boot, Java e Angular! 👋
 
 
 - 🌱 Estou estudando HTML, CSS e Javascript
